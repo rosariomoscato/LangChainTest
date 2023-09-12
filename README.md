@@ -1,3 +1,3 @@
 # LangChainTest
 
-This repo contains test and experiments with the **OLP stack**: **OpenAI**, **LangChain** and **Pinecone**.
+This repo contains tests and experiments with the **OLP stack**: **OpenAI**, **LangChain** and **Pinecone**.
